@@ -4,9 +4,9 @@ LOAD = getenv("LOAD", "").split()
 
 NO_LOAD = getenv("NO_LOAD", "").split()
 
-TOKEN = getenv("TOKEN", "6009759960:AAEMOCsUrfzdqesHaXE214ERgqQr1sRzlhU")
+TOKEN = getenv("TOKEN", "7069105732:AAH5EQKXgovDDJHRVqa5KJJCYqnBWFAUAAg")
 
 MONGO_DB_URL = getenv(
     "MONGO_DB_URL",
-    "mongodb+srv://moni:<password>@cluster0.i3djv5s.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://musicheysiri:musicsiri123@cluster0.gozblfn.mongodb.net/?appName=Cluster0",
 )
